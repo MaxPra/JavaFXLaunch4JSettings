@@ -2,8 +2,8 @@
 Settings for JavaFx to create a EXE-File
 
 # Instruction:
-1. Replace "YourExe.exe" with the name you wante the EXE to have.
-2. Replace YourJar.jar with the Jar, you want to make the EXE out.
+1. Replace "YourExe.exe" with the name you want the EXE to have (Select the path).
+2. Replace YourJar.jar with the Jar, you want to make the EXE out (Select the path).
 3. If you want an icon, you can choose one, if not, just delete "YourIcon.ico".
 4. In the "Command line args" you have to replace "YourJar" with the name of your jar.
 5. In the Tab "jre" you have to enter the name of your jre folder, you want (Basic Launch4J stuff, doesn't have to do with JavaFX).

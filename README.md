@@ -2,6 +2,8 @@
 Settings for JavaFx to create a EXE-File
 
 # Instruction:
+First you have to open the .xml file in Launch4J then do the following:
+
 1. Replace "YourExe.exe" with the name you want the EXE to have (Select the path).
 2. Replace YourJar.jar with the Jar, you want to make the EXE out (Select the path).
 3. If you want an icon, you can choose one, if not, just delete "YourIcon.ico".

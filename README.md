@@ -13,3 +13,4 @@ Settings for JavaFx to create a EXE-File
 The JFX-library and the JRE have to be in the same folder as the executable!
 
 # Have fun with it!
+Click [here](https://github.com/MaxPra/JavaFXLaunch4JSettings/archive/main.zip) to download the ZIP-Folder!

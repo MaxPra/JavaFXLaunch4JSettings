@@ -12,4 +12,4 @@ Settings for JavaFx to create a EXE-File
 
 The JFX-library and the JRE have to be in the same folder as the executable!
 
-#Have fun with it!
+# Have fun with it!
